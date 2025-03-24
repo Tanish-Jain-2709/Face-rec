@@ -1,2 +1,2 @@
-train_dir/*.jpg
-test_dir/*.jpg
+*.jpg
+*.png
