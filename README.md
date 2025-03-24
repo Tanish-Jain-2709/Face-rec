@@ -23,23 +23,5 @@ This system is ideal for applications such as:
 ## **Repository Structure**
 The repository is organized as follows:
 
-Face-rec/
-├── train_dir/ # Directory for training images (user must add)
-│ ├── aks/ # Subfolder for each class (e.g., person's name)
-│ ├── sudhanshu/
-│ ├── tanish/
-│ └── ...
-├── test_dir/ # Directory for testing images (user must add)
-│ ├── aks/
-│ ├── sudhanshu/
-│ ├── tanish/
-│ └── ...
-├── model/ # Model-related files
-│ ├── face_rec.py # Main script for face recognition
-│ └── models/
-│ └── face_model.npz # Pre-trained model weights
-├── dlib_face_recognition_resnet_model_v1.dat # Dlib's ResNet model for face recognition
-├── shape_predictor_68_face_landmarks.dat # Dlib's shape predictor for facial landmarks
-├── execution.py # Script to train and test the model
-├── .gitignore # Specifies files and directories ignored by Git
-└── README.md # Documentation (this file)
+![image](https://github.com/user-attachments/assets/72a2b3c4-da89-4911-87d9-89d0d9d70d08)
+
